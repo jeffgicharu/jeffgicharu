@@ -8,12 +8,13 @@
 
 ## 🚀 Professional Summary
 
-As a passionate Software Engineer based in Kenya, I specialize in building modern, high-performance web applications using JavaScript, TypeScript, and the latest frontend frameworks. My core expertise lies in the JavaScript ecosystem—React, Next.js, and related technologies—where I focus on creating seamless, scalable, and user-friendly digital experiences. I am also experienced in backend development with Node.js, Express, and other JavaScript server-side frameworks, as well as working with databases like PostgreSQL and MongoDB. I am committed to writing clean, maintainable code and staying at the forefront of web development trends. While I have experience with cloud and DevOps tools like AWS and Docker, my true strength is in full-stack engineering with a focus on the JavaScript/TypeScript stack.
+As a passionate Software Engineer based in Kenya, I specialize in building modern, high-performance web applications using JavaScript, TypeScript, and the latest frontend frameworks. My core expertise lies in the JavaScript ecosystem—React, Next.js, and related technologies—where I focus on creating seamless, scalable, and user-friendly digital experiences. I am also experienced in backend development with Node.js, Express, and other JavaScript server-side frameworks, as well as working with databases like PostgreSQL and MongoDB. I have a strong eye for UI/UX design, ensuring that every product I build is not only functional but also visually appealing and intuitive. I am committed to writing clean, maintainable code and staying at the forefront of web development trends. While I have experience with cloud and DevOps tools like AWS and Docker, my true strength is in full-stack engineering with a focus on the JavaScript/TypeScript stack.
 
 - 🏆 **200+ commits** in public and private JavaScript/TypeScript projects
 - ⚡ **Expert in React, Next.js, Node.js, and modern web workflows**
 - 📦 Strong advocate for TypeScript and scalable codebases
 - 🗄️ Experienced with PostgreSQL, MongoDB, and RESTful APIs
+- 🎨 Skilled in UI/UX design and building intuitive user interfaces
 - 🤝 **34+ pull requests** and active open source contributor
 - 💡 Lifelong learner, always exploring new libraries and best practices
 
@@ -33,6 +34,7 @@ As a passionate Software Engineer based in Kenya, I specialize in building moder
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>

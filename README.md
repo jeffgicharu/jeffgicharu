@@ -10,7 +10,7 @@
 
 As a passionate Software Engineer based in Kenya, I specialize in building modern, high-performance web applications using JavaScript, TypeScript, and the latest frontend frameworks. My core expertise lies in the JavaScript ecosystem—React, Next.js, and related technologies—where I focus on creating seamless, scalable, and user-friendly digital experiences. I am committed to writing clean, maintainable code and staying at the forefront of web development trends. While I have experience with cloud and DevOps tools like AWS and Docker, my true strength is in frontend engineering and the JavaScript/TypeScript stack.
 
-- 🏆 **200+ commits** in 2023, mostly in JavaScript/TypeScript projects
+- 🏆 **200+ commits** in public and private JavaScript/TypeScript projects
 - ⚡ **Expert in React, Next.js, and modern frontend workflows**
 - 📦 Strong advocate for TypeScript and scalable codebases
 - 🤝 **34+ pull requests** and active open source contributor

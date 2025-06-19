@@ -4,13 +4,9 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** based in Kenya, spe
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-- 🌍 Based in **Kenya**
-- 💼 Software Engineer | Web Developer | Tech Enthusiast
-- 🖥️ Focused on **Next.js**, **TypeScript**, and modern frontend ecosystems
-- 🌱 Lifelong learner, currently exploring **AI/ML** and **Cloud Computing**
-- 🤝 Open to collaboration on exciting projects and innovative ideas
+As a dedicated Software Engineer with a strong foundation in modern web technologies, I excel at designing and developing high-quality applications that deliver real value. My expertise spans frontend and backend development, cloud infrastructure, and DevOps practices. I am committed to continuous learning, leveraging the latest tools and frameworks to build efficient, maintainable, and innovative solutions. I enjoy working in collaborative environments and am always eager to tackle new challenges that push the boundaries of technology.
 
 ---
 
@@ -24,20 +20,12 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** based in Kenya, spe
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
----
-
-## 📂 Featured Projects
-
-- **[Project Name 1](#)**: Short description of what this project does, technologies used, and your role.
-- **[Project Name 2](#)**: Short description of what this project does, technologies used, and your role.
-- **[Project Name 3](#)**: Short description of what this project does, technologies used, and your role.
-
-_Explore more projects in my repositories!_
 
 ---
 
@@ -52,9 +40,8 @@ _Explore more projects in my repositories!_
 
 ## 📫 Contact Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Email: [jeffgicharukk@gmail.com](mailto:jeffgicharukk@gmail.com)
+- LinkedIn: [linkedin.com/in/jeff-gicharu-0924a4217](https://www.linkedin.com/in/jeff-gicharu-0924a4217/)
 
 ---
 

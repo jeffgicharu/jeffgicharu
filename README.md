@@ -1,19 +1,20 @@
 # 👋 Hi, I'm Jeff Gicharu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Cloud+%26+Web+Developer;Passionate+about+building+impactful+solutions;Always+learning+and+innovating"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=JavaScript+%26+TypeScript+Specialist;React+%7C+Next.js+%7C+Frontend+Engineer;Building+modern+web+experiences"/>
 </p>
 
 ---
 
 ## 🚀 Professional Summary
 
-As a dedicated Software Engineer based in Kenya, I specialize in building robust, scalable, and user-centric web applications. My expertise spans frontend and backend development, cloud infrastructure, and DevOps practices. I am passionate about leveraging technology to solve real-world problems, and I thrive in collaborative, fast-paced environments. I am committed to continuous learning and always eager to tackle new challenges that push the boundaries of technology.
+As a passionate Software Engineer based in Kenya, I specialize in building modern, high-performance web applications using JavaScript, TypeScript, and the latest frontend frameworks. My core expertise lies in the JavaScript ecosystem—React, Next.js, and related technologies—where I focus on creating seamless, scalable, and user-friendly digital experiences. I am committed to writing clean, maintainable code and staying at the forefront of web development trends. While I have experience with cloud and DevOps tools like AWS and Docker, my true strength is in frontend engineering and the JavaScript/TypeScript stack.
 
-- 🏆 **200+ commits** in 2023
+- 🏆 **200+ commits** in 2023, mostly in JavaScript/TypeScript projects
+- ⚡ **Expert in React, Next.js, and modern frontend workflows**
+- 📦 Strong advocate for TypeScript and scalable codebases
 - 🤝 **34+ pull requests** and active open source contributor
-- ☁️ Skilled in **AWS** and **Docker** for modern cloud-native development
-- 💡 Advocate for clean code, best practices, and lifelong learning
+- 💡 Lifelong learner, always exploring new libraries and best practices
 
 ---
 
@@ -27,11 +28,11 @@ As a dedicated Software Engineer based in Kenya, I specialize in building robust
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---

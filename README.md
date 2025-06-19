@@ -8,11 +8,12 @@
 
 ## 🚀 Professional Summary
 
-As a passionate Software Engineer based in Kenya, I specialize in building modern, high-performance web applications using JavaScript, TypeScript, and the latest frontend frameworks. My core expertise lies in the JavaScript ecosystem—React, Next.js, and related technologies—where I focus on creating seamless, scalable, and user-friendly digital experiences. I am committed to writing clean, maintainable code and staying at the forefront of web development trends. While I have experience with cloud and DevOps tools like AWS and Docker, my true strength is in frontend engineering and the JavaScript/TypeScript stack.
+As a passionate Software Engineer based in Kenya, I specialize in building modern, high-performance web applications using JavaScript, TypeScript, and the latest frontend frameworks. My core expertise lies in the JavaScript ecosystem—React, Next.js, and related technologies—where I focus on creating seamless, scalable, and user-friendly digital experiences. I am also experienced in backend development with Node.js, Express, and other JavaScript server-side frameworks, as well as working with databases like PostgreSQL and MongoDB. I am committed to writing clean, maintainable code and staying at the forefront of web development trends. While I have experience with cloud and DevOps tools like AWS and Docker, my true strength is in full-stack engineering with a focus on the JavaScript/TypeScript stack.
 
 - 🏆 **200+ commits** in public and private JavaScript/TypeScript projects
-- ⚡ **Expert in React, Next.js, and modern frontend workflows**
+- ⚡ **Expert in React, Next.js, Node.js, and modern web workflows**
 - 📦 Strong advocate for TypeScript and scalable codebases
+- 🗄️ Experienced with PostgreSQL, MongoDB, and RESTful APIs
 - 🤝 **34+ pull requests** and active open source contributor
 - 💡 Lifelong learner, always exploring new libraries and best practices
 
@@ -23,6 +24,10 @@ As a passionate Software Engineer based in Kenya, I specialize in building moder
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>

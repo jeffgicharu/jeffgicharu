@@ -1,12 +1,19 @@
 # 👋 Hi, I'm Jeff Gicharu
 
-Welcome to my GitHub! I'm a passionate **Software Engineer** based in Kenya, specializing in building robust, scalable, and user-centric web applications. I thrive on solving complex problems, learning new technologies, and collaborating with others to create impactful solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Cloud+%26+Web+Developer;Passionate+about+building+impactful+solutions;Always+learning+and+innovating"/>
+</p>
 
 ---
 
 ## 🚀 Professional Summary
 
-As a dedicated Software Engineer with a strong foundation in modern web technologies, I excel at designing and developing high-quality applications that deliver real value. My expertise spans frontend and backend development, cloud infrastructure, and DevOps practices. I am committed to continuous learning, leveraging the latest tools and frameworks to build efficient, maintainable, and innovative solutions. I enjoy working in collaborative environments and am always eager to tackle new challenges that push the boundaries of technology.
+As a dedicated Software Engineer based in Kenya, I specialize in building robust, scalable, and user-centric web applications. My expertise spans frontend and backend development, cloud infrastructure, and DevOps practices. I am passionate about leveraging technology to solve real-world problems, and I thrive in collaborative, fast-paced environments. I am committed to continuous learning and always eager to tackle new challenges that push the boundaries of technology.
+
+- 🏆 **200+ commits** in 2023
+- 🤝 **34+ pull requests** and active open source contributor
+- ☁️ Skilled in **AWS** and **Docker** for modern cloud-native development
+- 💡 Advocate for clean code, best practices, and lifelong learning
 
 ---
 
@@ -29,11 +36,20 @@ As a dedicated Software Engineer with a strong foundation in modern web technolo
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeffgicharu&theme=radical&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📊 GitHub Stats & Streak
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffgicharu&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffgicharu&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffgicharu&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
@@ -45,4 +61,6 @@ As a dedicated Software Engineer with a strong foundation in modern web technolo
 
 ---
 
-✨ _"Learning never exhausts the mind."_ — Leonardo da Vinci
+<p align="center">
+  ✨ _"Learning never exhausts the mind."_ — Leonardo da Vinci
+</p>

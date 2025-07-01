@@ -8,7 +8,12 @@
 
 ## 🚀 Professional Summary
 
-As a passionate Software Engineer based in Kenya, I specialize in building modern, high-performance web applications using JavaScript, TypeScript, and the latest frontend frameworks. My core expertise lies in the JavaScript ecosystem—React, Next.js, and related technologies—where I focus on creating seamless, scalable, and user-friendly digital experiences. I am also experienced in backend development with Node.js, Express, GraphQL, and other JavaScript server-side frameworks, as well as working with databases like PostgreSQL and MongoDB. I have a strong eye for UI/UX design, ensuring that every product I build is not only functional but also visually appealing and intuitive. I am committed to writing clean, maintainable code and staying at the forefront of web development trends. While I have experience with cloud and DevOps tools like AWS and Docker, my true strength is in full-stack engineering with a focus on the JavaScript/TypeScript stack.
+As a passionate Software Engineer from Kenya, I specialize in building modern, high-performance web applications with a focus on the JavaScript/TypeScript ecosystem. My commitment is to create seamless, scalable, and user-friendly digital experiences by writing clean, maintainable code.
+
+-   **Frontend Development:** Expertise in React, Next.js, Apollo Client and modern frameworks to build intuitive and visually appealing user interfaces.
+-   **Backend Development:** Proficient with Node.js, Express, GraphQL, Java and Spring Boot creating robust and scalable server-side solutions.
+-   **Databases & APIs:** Experienced in working with PostgreSQL, MongoDB, and designing RESTful APIs.
+-   **Cloud & DevOps:** Familiar with cloud services like AWS and containerization using Docker.
 
 - 🏆 **200+ commits** in public and private JavaScript/TypeScript projects
 - ⚡ **Expert in React, Next.js, Node.js, and modern web workflows**
@@ -27,7 +32,10 @@ As a passionate Software Engineer based in Kenya, I specialize in building moder
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=apollo-graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>

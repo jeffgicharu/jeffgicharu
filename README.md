@@ -8,7 +8,7 @@
 
 ## 🚀 Professional Summary
 
-As a passionate Software Engineer from Kenya, I specialize in building modern, high-performance web applications with a focus on the JavaScript/TypeScript ecosystem. My commitment is to create seamless, scalable, and user-friendly digital experiences by writing clean, maintainable code.
+As a passionate Software Engineer, I specialize in building modern, high-performance software applications. My commitment is to create seamless, scalable, and user-friendly digital experiences by writing clean, maintainable code.
 
 -   **Frontend Development:** Expertise in React, Next.js, Apollo Client and modern frameworks to build intuitive and visually appealing user interfaces.
 -   **Backend Development:** Proficient with Node.js, Express, GraphQL, Java and Spring Boot creating robust and scalable server-side solutions.
@@ -16,8 +16,8 @@ As a passionate Software Engineer from Kenya, I specialize in building modern, h
 -   **Cloud & DevOps:** Familiar with cloud services like AWS and containerization using Docker.
 
 - 🏆 **200+ commits** in public and private JavaScript/TypeScript projects
-- ⚡ **Expert in React, Next.js, Node.js, and modern web workflows**
-- 📦 Strong advocate for TypeScript and scalable codebases
+- ⚡ **Expert in React, Next.js, Node.js, Java with SpringBoot and modern web workflows**
+- 📦 Strong advocate for scalable codebases
 - 🗄️ Experienced with PostgreSQL, MongoDB, RESTful APIs, and GraphQL
 - 🎨 Skilled in UI/UX design and building intuitive user interfaces
 - 🤝 **34+ pull requests** and active open source contributor

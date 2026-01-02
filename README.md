@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jeff Gicharu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=I+build+software+in+any+language+the+problem+requires;Systems+Thinker+%7C+AI-Augmented+Developer;From+Frontend+to+Full-Stack+to+Systems+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Problem+First%2C+Then+Technology;Systems+Thinker+%7C+AI-Augmented+Developer;Frontend+%E2%86%92+Full-Stack+%E2%86%92+Systems" alt="Typing SVG" />
 </p>
 
 ---

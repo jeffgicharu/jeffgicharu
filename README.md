@@ -2,11 +2,9 @@
 
 Software engineer. I design systems, evaluate trade-offs, and build software that real users depend on.
 
-## Recently Worked With
+## Tech
 
 Django · Rust · Next.js · Prisma · PostgreSQL · Node.js · React · Tailwind · Linux · Nginx · Docker
-
-But I'm not limited to these.
 
 ## Contact
 

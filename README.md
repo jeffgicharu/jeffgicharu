@@ -1,55 +1,46 @@
 # 👋 Hi, I'm Jeff Gicharu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=JavaScript+%26+TypeScript+Specialist;React+%7C+Next.js+%7C+Frontend+Engineer;Building+modern+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=I+build+software+in+any+language+the+problem+requires;Systems+Thinker+%7C+AI-Augmented+Developer;From+Frontend+to+Full-Stack+to+Systems+Engineering" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-As a passionate Software Engineer, I specialize in building modern, high-performance software applications. My commitment is to create seamless, scalable, and user-friendly digital experiences by writing clean, maintainable code.
+I used to be a JavaScript/TypeScript specialist focused purely on React and Node.js. Then I embraced AI-augmented development and realized modern engineering isn't about mastering one ecosystem—it's about choosing the right tool for each problem and delivering quality software faster.
 
--   **Frontend Development:** Expertise in React, Next.js, Apollo Client and modern frameworks to build intuitive and visually appealing user interfaces.
--   **Backend Development:** Proficient with Node.js, Express, GraphQL, Java and Spring Boot creating robust and scalable server-side solutions.
--   **Databases & APIs:** Experienced in working with PostgreSQL, MongoDB, and designing RESTful APIs.
--   **Cloud & DevOps:** Familiar with cloud services like AWS and containerization using Docker.
+**How I work:**
+- I start with the problem, not the technology
+- AI handles syntax and boilerplate; I focus on architecture, system design, and trade-offs
+- Each project teaches me the stack I'm working in, so the learning compounds
 
-- 🏆 **200+ commits** in public and private JavaScript/TypeScript projects
-- ⚡ **Expert in React, Next.js, Node.js, Java with SpringBoot and modern web workflows**
-- 📦 Strong advocate for scalable codebases
-- 🗄️ Experienced with PostgreSQL, MongoDB, RESTful APIs, and GraphQL
-- 🎨 Skilled in UI/UX design and building intuitive user interfaces
-- 🤝 **34+ pull requests** and active open source contributor
-- 💡 Lifelong learner, always exploring new libraries and best practices
+**What this means in practice:**
+- I can architect Django backends, build systems-level tools in Rust, configure production VPS deployments, or ship full-stack Next.js applications
+- I adapt quickly, ship production-ready code, and focus on solving the actual problem rather than working around technical limitations
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies I Work With
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=apollo-graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
@@ -62,7 +53,7 @@ As a passionate Software Engineer, I specialize in building modern, high-perform
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffgicharu&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
@@ -80,5 +71,5 @@ As a passionate Software Engineer, I specialize in building modern, high-perform
 ---
 
 <p align="center">
-  ✨ _"Learning never exhausts the mind."_ — Leonardo da Vinci
+  ✨ <em>"Modern software engineering isn't about memorizing syntax—it's about understanding systems, making smart decisions, and using the best tools available."</em>
 </p>

@@ -1,8 +1,6 @@
 # Jeff Gicharu
 
-Software developer who picks the right tool for the problem, not the other way around.
-
-Most developers master one stack. I take a different approach—I understand systems, make architectural decisions, and let AI handle the syntax. The result: I ship production code in whatever language the problem demands.
+Software developer. I focus on understanding systems and making architectural decisions. AI handles the syntax. I ship production code in whatever language the problem needs.
 
 ## Recently Worked With
 

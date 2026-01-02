@@ -1,6 +1,6 @@
 # Jeff Gicharu
 
-Software developer. I focus on understanding systems and making architectural decisions. AI handles the syntax. I ship production code in whatever language the problem needs.
+Software engineer. I design systems, evaluate trade-offs, and build software that real users depend on.
 
 ## Recently Worked With
 

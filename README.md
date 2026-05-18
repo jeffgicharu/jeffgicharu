@@ -1,53 +1,58 @@
 # Jeff Gicharu
 
-**Software Engineer** · Nairobi, Kenya · [LinkedIn](https://www.linkedin.com/in/jeff-gicharu-0924a4217/) · [Email](mailto:jkaharu2970@gmail.com)
+Software Engineer based in Nairobi, Kenya. [LinkedIn](https://www.linkedin.com/in/jeff-gicharu-0924a4217/) · [Email](mailto:jkaharu2970@gmail.com)
 
-I build production software end-to-end — from API design and frontend implementation to deployment, observability, and the testing that keeps it all honest. Comfortable across backend (Java / Spring Boot, Node / NestJS, Python / Django), frontend (React, Next.js, TypeScript), and the DevOps glue that ships it to real users.
+I build production software end to end. That means API design, frontend implementation, deployment, and the testing that keeps it all honest. I work across backend (Java with Spring Boot, Node with NestJS, Python with Django), frontend (React, Next.js, TypeScript), and the DevOps glue that ships it to real users.
 
 ## Live Portfolio Demos
 
-Three deployed projects, each clickable, each demonstrating a different facet of full-stack engineering:
+Three deployed projects you can actually click on, each showing a different side of full-stack work.
 
 ### [ContractorOS](https://contractoros.jeffgicharu.com)
 
-Multi-tenant contractor lifecycle SaaS — Next.js 14 (App Router) + NestJS + PostgreSQL
+Multi-tenant contractor lifecycle SaaS built with Next.js 14 (App Router), NestJS, and PostgreSQL.
 
-[Repo](https://github.com/jeffgicharu/ContractorOS) · **Live**: https://contractoros.jeffgicharu.com
+[Repo](https://github.com/jeffgicharu/ContractorOS) · Live at https://contractoros.jeffgicharu.com
 
-Frontend: React + Next.js + Tailwind, accessible components, Vitest + RTL + axe-core. Backend: NestJS REST API, Prisma + PostgreSQL, JWT auth with HttpOnly + SameSite cookies, role-based authorization, rate limiting. Engineering depth: Testcontainers integration tests, Pact consumer-driven contracts, Stryker mutation testing, k6 performance suite, OWASP ZAP DAST against live, Playwright E2E across browsers.
+On the frontend it uses React, Next.js, and Tailwind, with accessible components covered by Vitest, RTL, and axe-core. On the backend it is a NestJS REST API talking to PostgreSQL through Prisma, with JWT auth in HttpOnly SameSite cookies, role-based authorization, and rate limiting. To keep all of that honest I added Testcontainers integration tests, Pact consumer-driven contracts, Stryker mutation testing, a k6 performance suite, OWASP ZAP DAST against the live site, and Playwright E2E across browsers.
 
-### [Wallet Pair — wallet-api + wallet-app](https://wallet.jeffgicharu.com)
+### [Wallet Pair: wallet-api and wallet-app](https://wallet.jeffgicharu.com)
 
-M-Pesa-style mobile money platform — Spring Boot REST API + React SPA across two coordinated repos
+An M-Pesa style mobile money platform split across two coordinated repos. Spring Boot REST API on one side, React SPA on the other.
 
-[wallet-api](https://github.com/jeffgicharu/wallet-api) · [wallet-app](https://github.com/jeffgicharu/wallet-app) · **Live**: https://wallet.jeffgicharu.com
+[wallet-api](https://github.com/jeffgicharu/wallet-api) · [wallet-app](https://github.com/jeffgicharu/wallet-app) · Live at https://wallet.jeffgicharu.com
 
-Backend: Spring Boot 3.5 + PostgreSQL + Flyway, JWT auth, idempotency keys, transactional transfer engine, daily-limit enforcement, login rate limiting, PIN hashing with lockout. Frontend: React + Vite + TypeScript, MSW-mocked tests, optimistic UI on transfers. Engineering depth: ~100 JUnit + Testcontainers integration tests, 15-interaction Pact-JVM cross-repo contracts, PIT mutation testing 76% kill-rate on the service layer, custom 27-test security suite (JWT, cross-user isolation, idempotency, races), Spotbugs + CodeQL + Trivy + ZAP, Playwright E2E (local + live).
+The backend runs on Spring Boot 3.5 with PostgreSQL and Flyway migrations, plus JWT auth, idempotency keys, a transactional transfer engine, daily limit enforcement, login rate limiting, and PIN hashing with lockout. The frontend is React with Vite and TypeScript, MSW for mocks in tests, and optimistic UI on transfers. Around all of that there are roughly 100 JUnit and Testcontainers integration tests, a 15-interaction Pact-JVM cross-repo contract suite, PIT mutation testing hitting 76% kill-rate on the service layer, a 27-test custom security suite (JWT manipulation, cross-user isolation, idempotency abuse, races), Spotbugs, CodeQL, Trivy, ZAP, and Playwright running both locally and against the live deployment.
 
 ### [USSD Simulator](https://ussd.jeffgicharu.com)
 
-Stateful M-Pesa-style USSD backend with browser phone UI — Spring Boot + Africa's Talking-compatible
+A stateful M-Pesa style USSD backend with a browser-based phone UI for demos. Spring Boot, Africa's Talking compatible.
 
-[Repo](https://github.com/jeffgicharu/ussd-simulator) · **Live**: https://ussd.jeffgicharu.com
+[Repo](https://github.com/jeffgicharu/ussd-simulator) · Live at https://ussd.jeffgicharu.com
 
-Backend: stateful session-driven state machine, transactional balance + transfer flows, PIN-lockout with Clock-injection for testability, daily limit enforcement. Frontend: lightweight browser phone UI for live demos. Deployed under nginx + systemd on a 2GB Ubuntu VPS with tuned JVM and daily-reset cron. Engineering depth: 92 tests across unit / integration / contract / security layers, PIT mutation testing, Locust stateful load testing (100 VU @ 92ms p95), USSD-specific security suite (session hijacking, PIN brute force, state-machine fuzzing).
+The backend is a session-driven state machine with transactional balance and transfer flows, PIN lockout (with an injected Clock so the time-sensitive code is actually testable), and daily limits. The frontend is a lightweight browser phone UI that lets you walk through the flows live. It is deployed under nginx and systemd on a 2GB Ubuntu VPS, with tuned JVM flags and a daily reset cron. The test base is 92 tests across unit, integration, contract, and security layers, plus PIT mutation testing, Locust stateful load testing (100 VU sustained at 92ms p95), and a USSD-specific security suite covering session hijacking, PIN brute force, and state-machine fuzzing.
 
-## Engineering Approach
+## How I Approach Engineering
 
-- **End-to-end ownership.** Each project ships behind a real domain on a real VPS — designed, built, secured, deployed, and monitored end-to-end.
-- **Testing matched to risk.** Unit tests where logic is dense; integration tests with Testcontainers / H2 for data flows; contract tests across service boundaries; Playwright for the user journey; security and performance suites where the stakes warrant it.
-- **Security is part of "done."** SAST (Spotbugs / CodeQL), dependency scanning (Trivy / Snyk), and DAST (OWASP ZAP) wired into CI; auth, rate limiting, and cross-user isolation verified by explicit tests.
-- **Deployment as a first-class concern.** systemd + nginx + Cloudflare on a constrained VPS forces tight JVM tuning, sensible cache headers, and graceful fallbacks. The live demos work because the deployment does.
+A few things I try to do consistently:
 
-## Tech
+**Own the thing end to end.** Each of these projects sits behind a real domain on a real VPS, designed, built, secured, deployed, and monitored by me. Half-finished demos are not on the list.
 
-- **Languages**: TypeScript, JavaScript, Java, Python, SQL
-- **Backend**: Spring Boot, NestJS, Django + DRF, FastAPI, Express
-- **Frontend**: React, Next.js (App Router), Vite, Tailwind CSS, accessible component patterns
-- **Data**: PostgreSQL, MongoDB, Redis, Prisma, Hibernate / JPA, Flyway
-- **Testing**: Pytest, JUnit 5 + AssertJ + Testcontainers, Vitest + RTL + axe-core, Playwright, Cypress, Pact, PIT, Stryker, k6, Locust
-- **Security**: Spotbugs + find-sec-bugs, CodeQL, Snyk, Trivy, OWASP Dependency Check, OWASP ZAP
-- **DevOps**: GitHub Actions, Docker, Ubuntu / Nginx / systemd, Cloudflare
+**Match testing to risk.** Unit tests where the logic is dense, integration tests with Testcontainers or H2 where data flows matter, contract tests across service boundaries, Playwright for the user journey, and security or performance suites where the stakes warrant them. Not every project needs every layer, and I try to be honest about that.
+
+**Treat security as part of "done."** SAST (Spotbugs, CodeQL), dependency scanning (Trivy, Snyk), and DAST (OWASP ZAP) all run in CI. Auth, rate limiting, and cross-user isolation get explicit tests, not just code review.
+
+**Take deployment seriously.** Running on a constrained VPS forces tight JVM tuning, sensible cache headers, and graceful fallbacks. The live demos work because the deployment story is solid, not because they are wrapped in a tarball.
+
+## Tech I Reach For
+
+- **Languages:** TypeScript, JavaScript, Java, Python, SQL
+- **Backend:** Spring Boot, NestJS, Django with DRF, FastAPI, Express
+- **Frontend:** React, Next.js (App Router), Vite, Tailwind CSS, accessible component patterns
+- **Data:** PostgreSQL, MongoDB, Redis, Prisma, Hibernate / JPA, Flyway
+- **Testing:** Pytest, JUnit 5 with AssertJ and Testcontainers, Vitest with RTL and axe-core, Playwright, Cypress, Pact, PIT, Stryker, k6, Locust
+- **Security:** Spotbugs with find-sec-bugs, CodeQL, Snyk, Trivy, OWASP Dependency Check, OWASP ZAP
+- **DevOps:** GitHub Actions, Docker, Ubuntu, Nginx, systemd, Cloudflare
 
 ## Contact
 

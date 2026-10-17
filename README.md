@@ -12,7 +12,7 @@ Each of these is a live site with every journey working end to end. The business
 | --- | --- | --- |
 | **[Ukingo](https://ukingo.jeffgicharu.com)** · [code](https://github.com/jeffgicharu/ukingo) | A booking site for a lodge near Mount Kenya. Guests see the price of every night and pay a deposit, and staff run the front desk and the room calendar. | Next.js, React, TypeScript, PostgreSQL |
 | **[Roomwave](https://roomwave.jeffgicharu.com)** · [code](https://github.com/jeffgicharu/roomwave) | Live polls, quizzes and questions that a whole room answers on their phones, with the results moving on the big screen as answers arrive. | Node, Fastify, Socket.IO, Svelte, PostgreSQL, Redis |
-| **[Sebule](https://sebule.jeffgicharu.com)** | An online furniture store with M-Pesa checkout, and a back office for orders, stock and the catalogue. | Laravel, PHP, PostgreSQL, Redis |
+| **[Sebule](https://sebule.jeffgicharu.com)** · [code](https://github.com/jeffgicharu/sebule) | An online furniture store with M-Pesa checkout, and a back office for orders, stock and the catalogue. | Laravel, PHP, PostgreSQL, Redis |
 
 ## Earlier projects
 

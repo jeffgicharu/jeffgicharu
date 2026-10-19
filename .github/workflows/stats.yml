@@ -1,0 +1,38 @@
+name: Stats cards
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['stats/**', '.github/workflows/stats.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats-cards
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Build the cards
+        run: node stats/build.mjs "$RUNNER_TEMP/cards"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: ${{ github.repository_owner }}
+
+      - name: Publish them to the output branch
+        run: |
+          git switch --orphan output
+          cp "$RUNNER_TEMP"/cards/*.svg .
+          git add -- *.svg
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -q -m "Update the stats cards"
+          git push -q -f origin output

@@ -46,21 +46,23 @@ if (!res.ok || body.errors || !body.data?.user) {
   console.error('GitHub did not return the data:', res.status, JSON.stringify(body.errors ?? body).slice(0, 500));
   process.exit(1);
 }
-const { contributionsCollection: cc, repositories } = body.data.user;
+const { contributionsCollection: cc } = body.data.user;
+// The profile repository holds only this script, so its code is left out of the languages.
+const repos = body.data.user.repositories.nodes.filter((r) => r.name.toLowerCase() !== login.toLowerCase());
 
 // Weekly totals for the bars along the foot of the activity card.
 const weeks = cc.contributionCalendar.weeks.map((w) => w.contributionDays.reduce((n, d) => n + d.contributionCount, 0));
 
 // Language sizes summed across public repositories, largest first.
 const sizes = new Map();
-for (const repo of repositories.nodes) {
+for (const repo of repos) {
   for (const { size, node } of repo.languages.edges) {
     const seen = sizes.get(node.name) ?? { size: 0, color: node.color };
     seen.size += size;
     sizes.set(node.name, seen);
   }
 }
-const repoCount = repositories.nodes.filter((r) => r.languages.edges.length > 0).length;
+const repoCount = repos.filter((r) => r.languages.edges.length > 0).length;
 const ranked = [...sizes].map(([name, v]) => ({ name, ...v })).sort((a, b) => b.size - a.size);
 const totalSize = ranked.reduce((n, l) => n + l.size, 0);
 const shown = ranked.slice(0, ranked.length > 8 ? 7 : 8);

@@ -27,6 +27,21 @@ Each of these is a live site with every journey working end to end. The business
 
 I write TypeScript, JavaScript, Java, Python, PHP, Go, Rust and SQL. I build with React, Next.js, Svelte, Node, Spring Boot, Laravel and NestJS, and with React Native and Salesforce for mobile and business systems. My data lives in PostgreSQL, Redis and SQLite, and I ship through GitHub Actions to Linux servers running nginx and systemd behind Cloudflare.
 
+## On GitHub
+
+These cards are rebuilt every morning from GitHub's own figures, by a [small workflow](stats/build.mjs) in this repository.
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeffgicharu/jeffgicharu/output/activity-dark.svg">
+  <img alt="My contributions on GitHub over the last 12 months, with commits, pull requests and issues, and a bar for each week" src="https://raw.githubusercontent.com/jeffgicharu/jeffgicharu/output/activity-light.svg" width="400">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeffgicharu/jeffgicharu/output/languages-dark.svg">
+  <img alt="The languages across my public repositories, by size of code" src="https://raw.githubusercontent.com/jeffgicharu/jeffgicharu/output/languages-light.svg" width="400">
+</picture>
+</p>
+
 ## Contact
 
 [jeffgicharu.com](https://jeffgicharu.com) · [LinkedIn](https://www.linkedin.com/in/jeff-gicharu-0924a4217/) · [Email](mailto:jkaharu2970@gmail.com)
